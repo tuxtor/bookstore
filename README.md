@@ -37,4 +37,4 @@ rest-generate-endpoints-from-entities --targets com.nabenik.bookstore.model.*;
 scaffold-generate --provider AngularJS --targets com.nabenik.bookstore.model.*;
 ```
 
-This code is available under the (WTFPL)[http://www.wtfpl.net/]
+This code is available under the [WTFPL](http://www.wtfpl.net/)
