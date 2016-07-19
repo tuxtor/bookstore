@@ -1,4 +1,4 @@
-This is an example of a vanilla JavaEE 7 application generated with [JBoss Forge and Eclipse Neon](http://tools.jboss.org/), this aplication demonstrates the following technologies:
+This is an example of a vanilla JavaEE 7 application generated with [JBoss Forge and Eclipse Neon](http://tools.jboss.org/), this application demonstrates the following technologies:
 
 -JPA
 -JAX-RS
